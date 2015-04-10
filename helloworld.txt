@@ -1,0 +1,6 @@
+公开课HelloWorld {
+
+公共静态void main(String[]args){
+
+System.out.println("Hello,World!");
+} }
